@@ -1,4 +1,4 @@
-module github.com/vincent178/messager
+module github.com/vincent178/messenger
 
 go 1.17
 
