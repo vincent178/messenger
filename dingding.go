@@ -1,4 +1,4 @@
-package messager
+package messenger
 
 import (
 	"crypto/hmac"
