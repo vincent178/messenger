@@ -1,4 +1,4 @@
-Messager
+Messenger
 =======
 
 > A utility tool to send message via slack, dingding etc
