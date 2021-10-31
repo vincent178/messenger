@@ -6,3 +6,4 @@ Messager
 Supported im
 * Slack
 * Dingding
+* Lark (Feishu)
